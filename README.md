@@ -1,7 +1,6 @@
-### Hi there 👋
 ## 💻 DEV's log 💻
 
-[![Velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@westjiuuu/posts)
+[![Velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@westjiwuuu/posts)
 
 ## 🔨 Once I've used 🔨
 
