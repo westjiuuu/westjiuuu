@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=westjiuuu&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westjiuuu&layout=compact" alt="Top Langs">
     <a href="https://solved.ac/westjiwoo/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=westjiwoo" alt="Solved.ac Profile">
     </a>
